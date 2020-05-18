@@ -1,0 +1,11 @@
+name=input("enter your name : ")
+print(name)
+branch=input("enter your branch : ")
+print(branch)
+gender = input("Enter your gender : ")
+print(gender)
+college = input("Enter your College : ")
+print(college)
+age = input("Enter your age : ")
+print(age)
+
